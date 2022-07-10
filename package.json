@@ -1,5 +1,6 @@
 {
-    "name": "forestry",
+    "name": "gandolphius-forestry",
+    "publisher": "gandolphius",
     "displayName": "forestry",
     "description": "",
     "version": "0.0.1",
@@ -17,5 +18,9 @@
                 "path": "./themes/forestry-color-theme.json"
             }
         ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/gandolphius/forestry-color-theme"
     }
 }
